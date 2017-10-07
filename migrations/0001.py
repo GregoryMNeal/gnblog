@@ -1,3 +1,5 @@
+# This migration does the intial database setup
+
 import models
 
 def forward ():

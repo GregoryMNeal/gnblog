@@ -1,3 +1,6 @@
+# This migration makes changes to the database forward and
+# backward.
+
 import sys
 import models
 import peewee
